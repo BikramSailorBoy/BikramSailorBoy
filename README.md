@@ -18,4 +18,8 @@
 ---
 [![](https://komarev.com/ghpvc/?username=BikramSailorBoy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="BikramSailorBoy's GitHub profile" src="dark_mode.svg" />
+</picture>
